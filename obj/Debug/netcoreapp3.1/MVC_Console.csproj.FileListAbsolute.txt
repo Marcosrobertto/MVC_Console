@@ -1,0 +1,13 @@
+C:\Users\Marcos Roberto\Documents\SENAI\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.exe
+C:\Users\Marcos Roberto\Documents\SENAI\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.deps.json
+C:\Users\Marcos Roberto\Documents\SENAI\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.runtimeconfig.json
+C:\Users\Marcos Roberto\Documents\SENAI\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.runtimeconfig.dev.json
+C:\Users\Marcos Roberto\Documents\SENAI\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.dll
+C:\Users\Marcos Roberto\Documents\SENAI\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.csprojAssemblyReference.cache
+C:\Users\Marcos Roberto\Documents\SENAI\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.AssemblyInfoInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.AssemblyInfo.cs
+C:\Users\Marcos Roberto\Documents\SENAI\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.dll
+C:\Users\Marcos Roberto\Documents\SENAI\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.genruntimeconfig.cache
